@@ -1,4 +1,5 @@
 //frida -U -f org.package.name -l universal-ssl-check-bypass.js --no-pause
+//https://techblog.mediaservice.net/2018/11/universal-android-ssl-pinning-bypass-2/
 
 Java.perform(function() {                
  
